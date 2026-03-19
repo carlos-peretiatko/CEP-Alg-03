@@ -1,4 +1,4 @@
-#Lista de Exercicios 03
+##Lista de Exercicios 03
 
 Estes exercícios devem ser entregues no Google Classroom. Para cada um dos exercícios, crie
 um arquivo fonte Python com o respectivo nome de acordo com a seguinte regra:
